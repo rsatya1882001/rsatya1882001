@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rsatya1882001
+- 👋 Hi, I’m surya  @rsatya1882001
 - 👀 I’m interested in emmbedded ,IOT PROJECTS...
 - 🌱 I’m currently learning .PYHTON ,JAVA PROGRAMMING ..
 - 💞️ I’m looking to collaborate on INTERN ON EMMBEDDED ,IOT,ML..
